@@ -1,0 +1,159 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 17.589746, 96.193619, 59.297215
+Pass 1, 21.784927, 95.397087, 55.012760
+Pass 2, 30.852962, 93.924049, 58.631542
+Pass 3, 13.863049, 93.364578, 60.242523
+Pass 4, 0.586692, 111.216141, 54.562824
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Pass 0, 10.395700, 56.851303, 16.864199
+Pass 1, 10.482500, 45.903297, 18.177601
+Pass 2, 10.646900, 32.411797, 17.055666
+Pass 3, 10.710700, 72.134209, 16.599571
+Pass 4, 8.991501, 1704.472412, 18.327497
+
+Frames under 16ms (for 60fps): 
+Pass 0: 170/552 frames (30.80%)
+Pass 1: 74/503 frames (14.71%)
+Pass 2: 96/547 frames (17.55%)
+Pass 3: 106/562 frames (18.86%)
+Pass 4: 769/5759 frames (13.35%)
+
+Frames under 33ms (for 30fps): 
+Pass 0: 550/552 frames (99.64%)
+Pass 1: 498/503 frames (99.01%)
+Pass 2: 547/547 frames (100.00%)
+Pass 3: 560/562 frames (99.64%)
+Pass 4: 5340/5759 frames (92.72%)
+
+Percentiles in ms for pass 0
+50%,	16.00
+75%,	17.00
+80%,	17.00
+85%,	18.00
+90%,	19.00
+91%,	19.00
+92%,	19.00
+93%,	20.00
+94%,	20.00
+95%,	21.00
+96%,	22.00
+97%,	22.00
+98%,	23.00
+99%,	27.00
+
+Percentiles in ms for pass 1
+50%,	16.00
+75%,	20.00
+80%,	21.00
+85%,	22.00
+90%,	24.00
+91%,	24.00
+92%,	24.00
+93%,	25.00
+94%,	26.00
+95%,	26.00
+96%,	28.00
+97%,	29.00
+98%,	30.00
+99%,	32.00
+
+Percentiles in ms for pass 2
+50%,	16.00
+75%,	16.00
+80%,	17.00
+85%,	17.00
+90%,	19.00
+91%,	20.00
+92%,	20.00
+93%,	21.00
+94%,	22.00
+95%,	23.00
+96%,	24.00
+97%,	25.00
+98%,	26.00
+99%,	27.00
+
+Percentiles in ms for pass 3
+50%,	16.00
+75%,	16.00
+80%,	17.00
+85%,	17.00
+90%,	17.00
+91%,	17.00
+92%,	17.00
+93%,	18.00
+94%,	18.00
+95%,	18.00
+96%,	19.00
+97%,	19.00
+98%,	20.00
+99%,	21.00
+
+Percentiles in ms for pass 4
+50%,	16.00
+75%,	19.00
+80%,	20.00
+85%,	23.00
+90%,	27.00
+91%,	28.00
+92%,	31.00
+93%,	33.00
+94%,	36.00
+95%,	41.00
+96%,	48.00
+97%,	52.00
+98%,	59.00
+99%,	69.00
+
+=== SYSTEM ===
+Windows 10 Education 64-bit (6.2, Build 9200)
+DX Feature Level: 11.0
+Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz (4 CPUs), ~2.5GHz
+12288MB RAM
+NVIDIA GeForce GTX 1050, 4214MB, Driver Version 466.47
+Graphics Card Vendor Id 0x10de with Device ID 0x1c8d
+
+=== SETTINGS ===
+Display: 1920x1080 (FullScreen) @ 60Hz VSync ON
+Tessellation: 1
+LodScale: 1.000000
+PedLodBias: 0.200000
+VehicleLodBias: 0.000000
+ShadowQuality: 2
+ReflectionQuality: 1
+ReflectionMSAA: 0
+SSAO: 1
+AnisotropicFiltering: 0
+MSAA: 0
+MSAAFragments: 0
+MSAAQuality: 0
+SamplingMode: 0
+TextureQuality: 1
+ParticleQuality: 1
+WaterQuality: 1
+GrassQuality: 1
+ShaderQuality: 1
+Shadow_SoftShadows: 3
+UltraShadows_Enabled: false
+Shadow_ParticleShadows: true
+Shadow_Distance: 1.000000
+Shadow_LongShadows: false
+Shadow_SplitZStart: 0.930000
+Shadow_SplitZEnd: 0.890000
+Shadow_aircraftExpWeight: 0.990000
+Shadow_DisableScreenSizeCheck: false
+Reflection_MipBlur: true
+FXAA_Enabled: true
+TXAA_Enabled: false
+Lighting_FogVolumes: true
+Shader_SSA: true
+DX_Version: 2
+CityDensity: 1.000000
+PedVarietyMultiplier: 1.000000
+VehicleVarietyMultiplier: 1.000000
+PostFX: 1
+DoF: false
+HdStreamingInFlight: false
+MaxLodScale: 0.000000
+MotionBlurStrength: 0.000000

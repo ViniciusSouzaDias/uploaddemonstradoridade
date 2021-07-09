@@ -1,0 +1,7 @@
+GstRender.EnableDx12 0
+GstRender.FullscreenEnabled 1
+GstRender.FullscreenRefreshRate 0.000000
+GstRender.FullscreenScreen 0
+GstRender.ResolutionHeight 1200
+GstRender.ResolutionWidth 1920
+GstRender.WindowBordersEnable 1
